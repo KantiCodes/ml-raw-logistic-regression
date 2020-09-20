@@ -1,7 +1,8 @@
 # ml-raw-logistic-regression
 
 ***Introduction***  
-This notebook presents step by step implementation of a binary classifier for MNIST dataset, where we distinguish following classes(digits 0 and 1 are supposed to be removed from the dataset):
+This notebook presents step by step implementation, tuning and debugging of a binary LR classifier for MNIST dataset.  
+To simplify the implementation of the algorithm, we distinguish following classes(digits 0 and 1 are supposed to be removed from the dataset):
 - Prime nubmers(2,3,5,7)
 - Compound numbers(4,6,8,9)
 
